@@ -1,0 +1,6 @@
+{
+	"name" : "nudelo",
+	"description" : "Simple command-line HTML minifier",
+	"targetPath": "./release/",
+	"lflags": ["-s"]
+}
